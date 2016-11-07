@@ -19,3 +19,5 @@ To run:
 The first argument is the directory where the \*.t files are stored.
 The second argument "-w" flags that it is allowed to clear and overwrite
 the directory <b>"infiles"</b> with new results.
+
+Currently, mbsum is called with the parameter -n 100.
